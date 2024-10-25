@@ -1,7 +1,8 @@
 
 **Exploring the application of deep learning methods for polygenic risk score estimation**
 
-**This repository is being updated
+**This repository is being updated and additional files and code will be added.
+
 This paper uses several methods to make polygenic (or genetic) risk scores estimates from input SNPs.
 There is code for:
 MLP: This is a multi-layer perceptron which takes in some number of input SNPs and is trained to predict the final PRS
